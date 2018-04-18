@@ -1,0 +1,13 @@
+.cat {
+  width: 500px;
+  cursor: pointer;
+  text-align: center;
+
+}
+img {
+  width: inherit;
+  height: 350px;
+}
+h1 {
+  margin-top: 50px;
+}
