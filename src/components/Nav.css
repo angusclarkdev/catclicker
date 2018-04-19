@@ -1,8 +1,17 @@
 .nav {
   margin-top: 50px;
-  width: 500px;
+  width: 280px;
 }
-
+@media only screen and (min-width: 500px) {
+  .nav {
+    width: 400px
+  }
+}
+@media only screen and (min-width: 768px) {
+  .nav {
+    width: 550px
+  }
+}
 .item {
   cursor: pointer;
 }
